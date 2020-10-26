@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-22 13:11+0300\n"
+"POT-Creation-Date: 2020-10-26 12:03+0300\n"
 "PO-Revision-Date: 2017-03-20 21:48+0200\n"
 "Last-Translator: WPBakery <hello@wpbakery.com>\n"
 "Language-Team: WPBakery <hello@wpbakery.com>\n"
@@ -1961,6 +1961,105 @@ msgid ""
 "Composer Premium."
 msgstr ""
 
+#: Helpers/Localizations.php:1189
+msgid "welcome"
+msgstr ""
+
+#: Helpers/Localizations.php:1193
+msgid ""
+"Discover visual editor that gives everything to create a website you are "
+"proud of."
+msgstr ""
+
+#: Helpers/Localizations.php:1197
+msgid "Done"
+msgstr ""
+
+#: Helpers/Localizations.php:1201
+msgid "Next Tip"
+msgstr ""
+
+#: Helpers/Localizations.php:1205
+msgid "Click here to skip"
+msgstr ""
+
+#: Helpers/Localizations.php:1209
+msgid "Element Controls"
+msgstr ""
+
+#: Helpers/Localizations.php:1213
+msgid "Quick Actions"
+msgstr ""
+
+#: Helpers/Localizations.php:1217
+msgid "Insights"
+msgstr ""
+
+#: Helpers/Localizations.php:1221
+msgid "On-Page Settings"
+msgstr ""
+
+#: Helpers/Localizations.php:1225
+msgid "Publishing Options"
+msgstr ""
+
+#: Helpers/Localizations.php:1229
+msgid ""
+"This is your content library. <a href=\"https://visualcomposer.com/help/"
+"content-elements-structure/add-content-element/\" target=\"blank\">Add an "
+"element</a> by dragging or clicking on it and find templates you have "
+"created or downloaded from the <a href=\"https://visualcomposer.com/help/"
+"visual-composer-hub/\" target=\"blank\">Hub</a>."
+msgstr ""
+
+#: Helpers/Localizations.php:1233
+msgid ""
+"Use <a href=\"https://visualcomposer.com/help/interface/element-controls/"
+"\" target=\"blank\">element controls</a> to see your <a href=\"https://"
+"visualcomposer.com/help/content-elements-structure/grid-layout-row-column/"
+"\" target=\"blank\">layout structure</a> or modify the particular row, "
+"column, or content element."
+msgstr ""
+
+#: Helpers/Localizations.php:1237
+msgid ""
+"Use <a href=\"https://visualcomposer.com/help/content-elements-structure/"
+"add-content-element/\" target=\"blank\">quick actions</a> at the bottom of "
+"the page to add the most popular row/column layouts and elements."
+msgstr ""
+
+#: Helpers/Localizations.php:1241
+msgid ""
+"<a href=\"https://visualcomposer.com/help/visual-composer-insights-"
+"assistant/\" target=\"blank\">Validate your page</a> for SEO and "
+"performance to speed up your site and rank higher."
+msgstr ""
+
+#: Helpers/Localizations.php:1245
+msgid ""
+"Check how your page looks on different devices. Select the device type to "
+"<a href=\"https://visualcomposer.com/help/responsive-design/\" target="
+"\"blank\">preview your layout responsiveness</a>."
+msgstr ""
+
+#: Helpers/Localizations.php:1249
+msgid ""
+"Access <a href=\"https://visualcomposer.com/help/visual-composer-hub/\" "
+"target=\"blank\">Visual Composer Hub</a> in-built cloud library to "
+"download additional elements, templates, add-ons, stock images, and more."
+msgstr ""
+
+#: Helpers/Localizations.php:1253
+msgid ""
+"Change <a href=\"https://visualcomposer.com/help/settings/\" target=\"blank"
+"\">settings of your page or post</a>, modify the layout, control popups, "
+"add custom CSS, and Javascript."
+msgstr ""
+
+#: Helpers/Localizations.php:1257
+msgid "Preview, save, and publish your content."
+msgstr ""
+
 #: Helpers/LoginCategory.php:21
 msgid "Business"
 msgstr ""
@@ -2094,6 +2193,18 @@ msgstr ""
 
 #: Modules/Editors/Settings/ItemDataCollectionController.php:56
 msgid "Help Us Make Visual Composer Better"
+msgstr ""
+
+#: Modules/Editors/Settings/ItemInitialHelpersController.php:48
+msgid "Display initial help guide on the editor’s first entrance."
+msgstr ""
+
+#: Modules/Editors/Settings/ItemInitialHelpersController.php:55
+msgid "Enable First-Entrance Help"
+msgstr ""
+
+#: Modules/Editors/Settings/ItemInitialHelpersController.php:69
+msgid "First-Entrance Help"
 msgstr ""
 
 #: Modules/Editors/Settings/ItemPreviewController.php:50
